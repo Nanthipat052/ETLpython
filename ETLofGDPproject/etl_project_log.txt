@@ -1,0 +1,14 @@
+2025-Sep-13-19:34:08,Extract process stared
+2025-Sep-13-19:34:26,Extract process ended
+2025-Sep-13-19:34:26,Transform process started
+2025-Sep-13-19:34:26,Extract process ended
+2025-Sep-13-19:34:26,Load process started
+2025-Sep-13-19:34:26,Load process ended
+2025-Sep-13-19:37:19,Extract process stared
+2025-Sep-13-19:37:20,Extract process ended
+2025-Sep-13-19:37:20,Transform process started
+2025-Sep-13-19:37:20,Extract process ended
+2025-Sep-13-19:37:20,Load to csv file process started
+2025-Sep-13-19:37:20,Load to csv file process ended
+2025-Sep-13-19:37:20,load to database started
+2025-Sep-13-19:37:20,load to database ended

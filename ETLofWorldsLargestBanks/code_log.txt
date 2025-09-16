@@ -1,0 +1,8 @@
+$2025-Sep-16-21:17:44,extract progress started 
+$2025-Sep-16-21:18:05,Extract progress Ended 
+$2025-Sep-16-21:18:05,Transform progress started 
+$2025-Sep-16-21:18:05,Transform progress ended 
+$2025-Sep-16-21:18:05,Load to csv file progress started 
+$2025-Sep-16-21:18:05,Load to csv file progress ended 
+$2025-Sep-16-21:18:05,load to database started 
+$2025-Sep-16-21:18:05,load to database ended 

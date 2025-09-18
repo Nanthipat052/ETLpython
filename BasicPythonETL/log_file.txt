@@ -1,0 +1,8 @@
+2025-Sep-02-15:36:41,ETL process started
+2025-Sep-02-15:36:41,Extract process started
+2025-Sep-02-15:36:41,Extract process started
+2025-Sep-02-15:36:41,Transform process started
+2025-Sep-02-15:36:41,Transform process ended
+2025-Sep-02-15:36:41,Load process started
+2025-Sep-02-15:36:41,Load process ended
+2025-Sep-02-15:36:41,ETL Job Ended
